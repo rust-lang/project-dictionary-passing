@@ -1,4 +1,6 @@
-# project-dictionary-passing
+# Dictionary passing Project Group
+
+An effort modelling Rusts type system via meta-language dictionary passing. This is one way to think about what it means to "implement a trait" in Rust. This model makes it easier to reason about some parts of the type system, while not being too compatible with others. It is not the official stance of the Types Team.
 
 We're using [zulip](https://rust-lang.zulipchat.com/#narrow/channel/609563-t-types.2Fdictionary-passing) for discussions.
 
